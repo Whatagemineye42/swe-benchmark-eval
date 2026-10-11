@@ -1,0 +1,13 @@
+{
+  "name": "swe-benchmark-eval",
+  "version": "1.0.0",
+  "description": "Playwright test harness for AI coding benchmarks",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0",
+    "typescript": "^5.3.0"
+  }
+}
